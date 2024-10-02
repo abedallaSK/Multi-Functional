@@ -1,0 +1,93 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.MultiFuncUI" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+                <item name="colorBackground">@color/black</item>
+                <item name="helperImage01">@drawable/ghelper01</item>
+                <item name="helperImage02">@drawable/ghelper02</item>
+                <item name="helperImage03">@drawable/ghelper03</item>
+                <item name="colorPrimaryDark">#404040</item>
+<!--                <item name="colorOnBackground">@color/white</item>-->
+    </style>
+
+    <style name="Base.Theme.BlueMultiFuncUI" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/blue_primary</item>
+        <item name="colorOnPrimary">@color/blue_on_primary</item>
+        <item name="colorSecondary">@color/blue_secondary</item>
+        <item name="colorOnSecondary">@color/blue_on_secondary</item>
+        <item name="colorBackground">#000000</item>
+        <item name="colorPrimaryDark">#22476F</item>
+        <item name="colorOnBackground">#7FE7FF</item>
+        <item name="helperImage01">@drawable/bhelper01</item>
+        <item name="helperImage02">@drawable/ghelper02</item>
+        <item name="helperImage03">@drawable/bhelper03</item>
+    </style>
+
+    <style name="Base.Theme.DarkMultiFuncUI" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#3F00A9</item>
+        <item name="colorOnPrimary">@color/dark_on_primary</item>
+        <item name="colorSecondary">#6C00FF</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorBackground">@color/dark_background</item>
+        <item name="colorPrimaryDark">@color/dark_primary_dark</item>
+        <item name="colorOnBackground">@color/white</item>
+        <item name="helperImage01">@drawable/bhelper01</item>
+        <item name="helperImage02">@drawable/ghelper02</item>
+        <item name="helperImage03">@drawable/bhelper03</item>
+
+    </style>
+
+
+
+    <style name="Base.Theme.GreenMultiFuncUI" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/green_primary</item>
+        <item name="colorOnPrimary">#2A2E43</item>
+        <item name="colorSecondary">@color/green_secondary</item>
+        <item name="colorOnSecondary">@color/green_on_secondary</item>
+        <item name="colorBackground">#2A2E43</item>
+        <item name="colorPrimaryDark">#6B7A6B</item>
+        <item name="colorOnBackground">@color/white</item>
+        <item name="helperImage01">@drawable/bhelper01</item>
+        <item name="helperImage02">@drawable/ghelper02</item>
+        <item name="helperImage03">@drawable/bhelper03</item>
+    </style>
+
+    <style name="Base.Theme.PurpleMultiFuncUI" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#C73BDE</item>
+        <item name="colorOnPrimary">#E3C1F6</item>
+        <item name="colorSecondary">@color/purple_secondary</item>
+        <item name="colorOnSecondary">@color/purple_on_secondary</item>
+        <item name="colorBackground">#2C2C2C</item>
+        <item name="colorPrimaryDark">@color/purple_primary_dark</item>
+        <item name="colorOnBackground">#FFFFFF</item>
+        <item name="helperImage01">@drawable/ghelper01</item>
+        <item name="helperImage02">@drawable/ghelper02</item>
+        <item name="helperImage03">@drawable/ghelper03</item>
+    </style>
+
+    <style name="Base.Theme.RedMultiFuncUI" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#FF1000</item>
+        <item name="colorOnPrimary">#000659</item>
+        <item name="colorSecondary">#AF0202</item>
+        <item name="colorOnSecondary">#685959</item>
+        <item name="colorBackground">#454545</item>
+        <item name="colorPrimaryDark">@color/red_primary_dark</item>
+        <item name="colorOnBackground">#FFEBEB</item>
+        <item name="helperImage01">@drawable/ghelper01</item>
+        <item name="helperImage02">@drawable/ghelper02</item>
+        <item name="helperImage03">@drawable/ghelper03</item>
+    </style>
+
+    <style name="Base.Theme.YellowMultiFuncUI" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/yellow_primary</item>
+        <item name="colorOnPrimary">#000000</item>
+        <item name="colorSecondary">@color/yellow_secondary</item>
+        <item name="colorOnSecondary">#081800</item>
+        <item name="colorBackground">@color/black</item>
+        <item name="colorPrimaryDark">@color/yellow_primary_dark</item>
+        <item name="colorOnBackground">#D9D9D9</item>
+        <item name="helperImage01">@drawable/ghelper01</item>
+        <item name="helperImage02">@drawable/ghelper02</item>
+        <item name="helperImage03">@drawable/ghelper03</item>
+    </style>
+
+
+</resources>

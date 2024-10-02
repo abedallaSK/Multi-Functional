@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">אפליקציית MultiFuncUI</string>
+    <string name="title_activity_main">פעילות ראשית</string>
+    <string name="title_home">בית</string>
+    <string name="title_dashboard">לוח הבקרה</string>
+    <string name="title_notifications">התראות</string>
+    <string name="home">בית</string>
+    <string name="nav_setting">הגדרות</string>
+    <string name="nav_notifications">התראות</string>
+    <string name="nav_chat">צ\'אט</string>
+    <string name="nav_profile">פרופיל</string>
+    <string name="textview">תצוגת טקסט</string>
+    <string name="welcome">ברוך הבא</string>
+    <string name="quick_function">פונקציה מהירה</string>
+    <string name="searching">חיפוש</string>
+    <string name="home_funcs">הגדרות בית</string>
+    <string name="Start">התחל</string>
+    <string name="tItle_theme">בחר את הנושא שלך</string>
+    <string name="enable">אפשר</string>
+    <string name="ai">בינה מלאכותית</string>
+    <string name="test">בדיקה</string>
+    <string name="theme_colors">צבעי נושא</string>
+    <string name="colorprimary">צבע ראשי</string>
+    <string name="coloronprimary">על הראשי</string>
+    <string name="colorsecondary">צבע משני</string>
+    <string name="coloronsecondary">על המשני</string>
+    <string name="colorbackground">רקע</string>
+    <string name="select">בחר</string>
+    <string name="there_are_not_new_message">אין הודעות חדשות</string>
+    <string name="add_new_data">הוסף נתונים חדשים</string>
+    <string name="create_new_project">צור פרויקט חדש</string>
+    <string name="change_theme">שנה נושא</string>
+    <string name="kids_mode">מצב ילדים</string>
+    <string name="setting">הגדרות</string>
+    <string name="checkroom">בדוק חדר</string>
+    <string name="size">גודל</string>
+    <string name="all">הכל</string>
+    <string name="favorite">מועדפים</string>
+    <string name="mangement">ניהול</string>
+    <string name="action">פעולה</string>
+    <string name="other">אחר</string>
+    <string name="warning">אזהרה</string>
+    <string name="do_you_want_to_save_changes">האם לשמור את השינויים?</string>
+    <string name="yes">כן</string>
+    <string name="no">לא</string>
+    <string name="into1">מידע 1</string>
+    <string name="info2">מידע 2</string>
+    <string name="info3">מידע 3</string>
+    <string name="info4">מידע 4</string>
+    <string name="notifications">התראות</string>
+    <string name="see_all">הצג הכל</string>
+    <string name="zoom_transformation">הגדלה</string>
+    <string name="fade_slide_transformer">החלקה ודעיכה</string>
+    <string name="coloronbackground">על הרקע</string>
+    <string name="remove_from_home">הסר מהבית</string>
+    <string name="add_to_home">הוסף לבית</string>
+    <string name="enter_username">הכנס שם משתמש</string>
+    <string name="abedalla_sK">עבדאללה אס קיי</string>
+    <string name="select_a_language">בחר שפה</string>
+    <string name="you_must_to_insert_the_username">עליך להזין את שם המשתמש</string>
+    <string name="user_not_found">לא נמצא משתמש</string>
+    <string name="invalid_activixty">פעילות לא חוקית</string>
+    <string name="an_error_occurred">אירעה שגיאה</string>
+    <string name="selected">נבחר</string>
+    <string name="Mode">מצב</string>
+    <string name="dark_light">כהה / בהיר</string>
+    <string name="by_enabling_this_option_you_agree_to_allow_your_data_to_be_sent_to_the_server_for_processing">על ידי הפעלת אפשרות זו, אתה מסכים לאפשר את שליחת הנתונים שלך לשרת לצורך עיבוד.</string>
+    <string name="this_is_test_for_data1">זהו ניסוי עבור נתונים 1</string>
+    <string name="this_is_test_for_another_data">זהו ניסוי עבור נתונים אחרים</string>
+    <string name="ok">אוקי</string>
+    <string name="delete">מחק</string>
+    <string name="language">שפה</string>
+    <string name="logout">התנתקות</string>
+    <string name="update">עדכון</string>
+    <string name="Setting">הגדרות</string> <!-- Not translated, as it refers to another resource -->
+    <string name="cherry_blossom_grove">גן פריחת הדובדבן</string>
+    <string name="emerald_ember">גחלת אזמרגד</string>
+    <string name="cherry_blossom_garden">גן פריחת הדובדבן</string>
+    <string name="radiant_nature">טבע זוהר</string>
+    <string name="fire_oasis">נאת אש</string>
+    <string name="vibrant_harmony">הרמוניה תוססת</string>
+    <string name="cherry_zen">זן דובדבן</string>
+
+
+
+
+    <string-array name="language_options_display">
+        <item>ערבית</item>
+        <item>אנגלית</item>
+        <item>עברית</item>
+    </string-array>
+
+
+</resources>

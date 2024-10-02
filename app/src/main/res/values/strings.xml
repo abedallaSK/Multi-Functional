@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">MultiFuncUI</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="home">Home</string>
+    <string name="nav_setting">Setting</string>
+    <string name="nav_notifications">Notifications</string>
+    <string name="nav_chat">Chat</string>
+    <string name="nav_profile">Profile</string>
+    <string name="textview">TextView</string>
+    <string name="welcome">Welcome</string>
+    <string name="quick_function">Quick Function</string>
+    <string name="searching">Searching</string>
+    <string name="home_funcs">Home Settings</string>
+    <string name="Start">Start</string>
+    <string name="tItle_theme">Choose your Theme</string>
+    <string name="enable">Enable</string>
+    <string name="ai">AI</string>
+    <string name="test">Test</string>
+    <string name="theme_colors">Theme Colors</string>
+    <string name="colorprimary">Primary</string>
+    <string name="coloronprimary">OnPrimary</string>
+    <string name="colorsecondary">Secondary</string>
+    <string name="coloronsecondary">OnSecondary</string>
+    <string name="colorbackground">Background</string>
+    <string name="select">Select</string>
+    <string name="there_are_not_new_message">There Are Not New Message</string>
+    <string name="add_new_data">Add new Data</string>
+    <string name="create_new_project">Create New Project</string>
+    <string name="change_theme">Change Thame</string>
+    <string name="kids_mode">Kids Mode</string>
+    <string name="setting">Setting</string>
+    <string name="checkroom">Check Room</string>
+    <string name="size">Size</string>
+    <string name="all">All</string>
+    <string name="favorite">Favorite</string>
+    <string name="mangement">Mangement</string>
+    <string name="action">Action</string>
+    <string name="other">Other</string>
+    <string name="warning">Warning</string>
+    <string name="do_you_want_to_save_changes">Do you want to save changes?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="into1">Info1</string>
+    <string name="info2">Info2</string>
+    <string name="info3">Info3</string>
+    <string name="info4">Info4</string>
+    <string name="notifications">Notifications</string>
+    <string name="see_all">See all</string>
+    <string name="zoom_transformation">Zoom</string>
+    <string name="fade_slide_transformer">Fade Slide</string>
+    <string name="coloronbackground">OnBackground</string>
+    <string name="remove_from_home">Remove From Home</string>
+    <string name="add_to_home">Add to Home</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="delete">Delete</string>
+    <string name="language">Language</string>
+    <string name="logout">Logout</string>
+    <string name="update">Update</string>
+    <string name="Setting">ٍٍsetting</string>
+    <string name="AbedallaSK">AbedallaSK</string>
+    <string name="abedalla_sK">AbedallaSK</string>
+    <string name="select_a_language">Select a language</string>
+    <string name="you_must_to_insert_the_username">You must to insert the username</string>
+    <string name="user_not_found">User not found</string>
+    <string name="invalid_activixty">Invalid Activixty</string>
+    <string name="an_error_occurred">An error occurred</string>
+    <string name="selected">Selected</string>
+    <string name="Mode">Mode</string>
+    <string name="dark_light">Dark Light</string>
+    <string name="by_enabling_this_option_you_agree_to_allow_your_data_to_be_sent_to_the_server_for_processing">By enabling this option, you agree to allow your data to be sent to the server for processing.</string>
+    <string name="this_is_test_for_data1">This is Test for data1</string>
+    <string name="this_is_test_for_another_data">This is Test for another  data</string>
+    <string name="ok">OK</string>
+    <string name="cherry_blossom_grove">Cherry Blossom Grove</string>
+    <string name="emerald_ember">Emerald Ember</string>
+    <string name="cherry_blossom_garden">Cherry Blossom Garden</string>
+    <string name="radiant_nature">Radiant Nature</string>
+    <string name="fire_oasis">Fire Oasis</string>
+    <string name="vibrant_harmony">Vibrant Harmony</string>
+    <string name="cherry_zen">Cherry Zen</string>
+    <string-array name="language_options_display">
+        <item>Arabic</item>
+        <item>English</item>
+        <item>Hebrew</item>
+    </string-array>
+    <string-array name="language_options_values" translatable="false">
+        <item>ar</item>
+        <item>en</item>
+        <item>iw</item>
+    </string-array>
+    <string-array name="theme_options">
+        <item>Auto</item>
+        <item>Light</item>
+        <item>Dark</item>
+    </string-array>
+    <string-array name="theme_value" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+</resources>

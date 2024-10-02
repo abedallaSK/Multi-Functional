@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/badge"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="@drawable/badge_background"
+    android:paddingStart="6dp"
+    android:paddingEnd="6dp"
+    android:textColor="@android:color/white"
+    android:textSize="@dimen/small_text"
+    android:visibility="visible" />

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="NeumorphismCard">
+        <item name="neumorph_cornerFamily">rounded</item>
+        <item name="neumorph_cornerSize">10sp</item>
+        <item name="neumorph_shapeType">basin</item></style>
+
+
+    <style name="CustomSpinnerStyle" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Set the selected text color -->
+        <item name="colorControlActivated">?attr/colorPrimary</item> <!-- Set your desired color -->
+    </style>
+
+</resources>

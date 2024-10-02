@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?attr/colorBackground"
+    tools:context=".funcsButton.page.FuncActivity">
+
+
+    <View
+        android:id="@+id/view14"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:background="?attr/colorPrimary"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/editTextText4"
+        android:layout_width="match_parent"
+        android:layout_height="48sp"
+        android:layout_marginStart="32dp"
+        android:layout_marginEnd="32dp"
+        android:autofillHints="TODO"
+        android:background="@drawable/boxframe"
+        android:drawableTint="?attr/colorPrimary"
+        android:drawableEnd="@drawable/baseline_mic_24"
+        android:drawablePadding="20sp"
+        android:ems="10"
+        android:hint="@string/searching"
+        android:inputType="text"
+        android:textColor="?attr/colorSecondary"
+        android:tint="?attr/colorPrimary"
+        android:textColorHint="?attr/colorPrimaryDark"
+        app:layout_constraintBottom_toBottomOf="@+id/view14"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/view14" />
+    <HorizontalScrollView
+        android:id="@+id/horizontal_scroll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="none"
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextText4">
+
+        <com.google.android.material.tabs.TabLayout
+            android:id="@+id/tabs"
+            android:background="?attr/colorBackground"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:tabTextColor="?attr/colorPrimaryDark"
+            app:tabSelectedTextColor="?attr/colorPrimary"
+            app:tabMode="scrollable" />
+    </HorizontalScrollView>
+
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/view_pager"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/horizontal_scroll" />
+
+
+
+    <TextView
+        android:id="@+id/textView31"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginBottom="8dp"
+        android:text="@string/home_funcs"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toTopOf="@+id/editTextText4"
+        app:layout_constraintStart_toStartOf="@+id/view14" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

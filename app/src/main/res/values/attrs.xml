@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Styleable">
+        <attr name="colorBackground" format="reference|color" />
+        <attr name="colorPrimary" format="reference|color" />
+        <attr name="colorOnPrimary" format="reference|color" />
+        <attr name="colorSecondary" format="reference|color" />
+        <attr name="colorOnSecondary" format="reference|color" />
+        <attr name="colorPrimaryDark" format="reference|color" />
+        <attr name="customColorOnBackground" format="reference|color" />
+
+        <attr name="helperImage01" format="reference" />
+        <attr name="helperImage02" format="reference" />
+        <attr name="helperImage03" format="reference" />
+
+    </declare-styleable>
+</resources>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق MultiFuncUI</string>
+    <string name="title_activity_main">النشاط الرئيسي</string>
+    <string name="title_home">الرئيسية</string>
+    <string name="title_dashboard">لوحة التحكم</string>
+    <string name="title_notifications">الإشعارات</string>
+    <string name="home">الرئيسية</string>
+    <string name="nav_setting">الإعدادات</string>
+    <string name="nav_notifications">الإشعارات</string>
+    <string name="nav_chat">المحادثة</string>
+    <string name="nav_profile">الملف الشخصي</string>
+    <string name="textview">عرض النص</string>
+    <string name="welcome">مرحباً</string>
+    <string name="quick_function">الوظيفة السريعة</string>
+    <string name="searching">البحث</string>
+    <string name="home_funcs">إعدادات الصفحة الرئيسية</string>
+    <string name="Start">ابدأ</string>
+    <string name="tItle_theme">اختر الثيم الخاص بك</string>
+    <string name="enable">تفعيل</string>
+    <string name="ai">الذكاء الاصطناعي</string>
+    <string name="test">اختبار</string>
+    <string name="theme_colors">ألوان الثيم</string>
+    <string name="colorprimary">اللون الرئيسي</string>
+    <string name="coloronprimary">على الرئيسي</string>
+    <string name="colorsecondary">اللون الثانوي</string>
+    <string name="coloronsecondary">على الثانوي</string>
+    <string name="colorbackground">الخلفية</string>
+    <string name="select">اختر</string>
+    <string name="there_are_not_new_message">لا توجد رسائل جديدة</string>
+    <string name="add_new_data">إضافة بيانات جديدة</string>
+    <string name="create_new_project">إنشاء مشروع جديد</string>
+    <string name="change_theme">تغيير الثيم</string>
+    <string name="kids_mode">وضع الأطفال</string>
+    <string name="setting">الإعدادات</string>
+    <string name="checkroom">فحص الغرفة</string>
+    <string name="size">الحجم</string>
+    <string name="all">الكل</string>
+    <string name="favorite">المفضلة</string>
+    <string name="mangement">الإدارة</string>
+    <string name="action">الإجراء</string>
+    <string name="other">أخرى</string>
+    <string name="warning">تحذير</string>
+    <string name="do_you_want_to_save_changes">هل تريد حفظ التغييرات؟</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="into1">المعلومات 1</string>
+    <string name="info2">المعلومات 2</string>
+    <string name="info3">المعلومات 3</string>
+    <string name="info4">المعلومات 4</string>
+    <string name="notifications">الإشعارات</string>
+    <string name="see_all">عرض الكل</string>
+    <string name="zoom_transformation">تكبير</string>
+    <string name="fade_slide_transformer">تلاشي وانزلاق</string>
+    <string name="coloronbackground">على الخلفية</string>
+    <string name="remove_from_home">إزالة من الصفحة الرئيسية</string>
+    <string name="add_to_home">إضافة إلى الصفحة الرئيسية</string>
+    <string name="enter_username">أدخل اسم المستخدم</string>
+    <string name="AbedallaSK">عبدالله أس كي</string>
+    <string name="abedalla_sK">عبدالله أس كي</string>
+    <string name="select_a_language">اختر لغة</string>
+    <string name="you_must_to_insert_the_username">يجب إدخال اسم المستخدم</string>
+    <string name="user_not_found">لم يتم العثور على المستخدم</string>
+    <string name="invalid_activixty">نشاط غير صالح</string>
+    <string name="an_error_occurred">حدث خطأ</string>
+    <string name="selected">محدد</string>
+    <string name="Mode">الوضع</string>
+    <string name="dark_light">داكن / فاتح</string>
+    <string name="by_enabling_this_option_you_agree_to_allow_your_data_to_be_sent_to_the_server_for_processing">من خلال تفعيل هذا الخيار، توافق على السماح بإرسال بياناتك إلى الخادم للمعالجة.</string>
+    <string name="this_is_test_for_data1">هذا اختبار للبيانات 1</string>
+    <string name="this_is_test_for_another_data">هذا اختبار لبيانات أخرى</string>
+    <string name="ok">موافق</string>
+    <string name="delete">حذف</string>
+    <string name="language">اللغة</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="update">تحديث</string>
+    <string name="Setting">إعدادات</string> <!-- Not translated, as it refers to another resource -->
+    <string name="cherry_blossom_grove">بستان أزهار الكرز</string>
+    <string name="emerald_ember">جمرة الزمرد</string>
+    <string name="cherry_blossom_garden">حديقة أزهار الكرز</string>
+    <string name="radiant_nature">طبيعة مشعة</string>
+    <string name="fire_oasis">واحة النار</string>
+    <string name="vibrant_harmony">تناغم نابض بالحياة</string>
+    <string name="cherry_zen">زن الكرز</string>
+
+
+
+
+
+
+
+    <string-array name="language_options_display">
+        <item>العربية</item>
+        <item>الإنجليزية</item>
+        <item>العبرية</item>
+    </string-array>
+
+
+
+
+</resources>
