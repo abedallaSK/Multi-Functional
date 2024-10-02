@@ -4,6 +4,7 @@
         <item name="helperImage01">@drawable/ghelper01</item>
         <item name="helperImage02">@drawable/ghelper02</item>
         <item name="helperImage03">@drawable/ghelper03</item>
+        <item name="colorPrimaryDark">#404040</item>
     </style>
 
     <style name="Base.Theme.BlueMultiFuncUI" parent="Theme.MaterialComponents.DayNight.NoActionBar">
